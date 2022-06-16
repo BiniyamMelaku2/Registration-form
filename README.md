@@ -1,15 +1,6 @@
 # a single-page responsive registration form
 
-![Design preview](./design/desktop-preview.jpg)
-
-## Challenge! 
-
-**This challenge demonstrates familiarity with Responsiveness and Media Queries**
-
-check out this front-end coding challenge.
-
-[Frontend Mentor](https://www.frontendmentor.io/challenges/intro-component-with-signup-form-5cf91bd49edda32581d28fd1) 
-
+-  -  - 
 
 ## The challenge
 
@@ -25,7 +16,7 @@ Your users should be able to:
   - The email address is not formatted correctly (i.e. a correct email address should have this structure: `name@host.tld`). The message for this error should say *"Looks like this is not an email"*
 
 
-## Where to find everything
+## Starter files
 
 The task is to build out the project to the designs inside the `/design` folder. You will find both a mobile and a desktop version of the design to work to. 
 
@@ -35,9 +26,20 @@ You will find all the required assets in the `/images` folder. The assets are al
 
 There is also a `style-guide.md` file, which contains the information you'll need, such as color palette and fonts.
 
-## Building your project
 
-**This challenge is built with HTML, CSS and JavaScript.**
+**This challenge demonstrates familiarity with Responsiveness and Media Queries**
+
+![Design preview](./design/desktop-preview.jpg)
+
+
+Further info check out this front-end coding challenge.
+
+[Frontend Mentor](https://www.frontendmentor.io/challenges/intro-component-with-signup-form-5cf91bd49edda32581d28fd1) 
+
+
+## Building the project
+
+**This project is built with HTML, CSS and JavaScript.**
 
 
 ## Deploying the project
