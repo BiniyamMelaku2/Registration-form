@@ -42,4 +42,4 @@ There is also a `style-guide.md` file, which contains the information you'll nee
 
 ## Deploying the project
 
-Live site: https://github.com/biniyammelaku2/
+Live site: [Registration-form](https://biniyammelaku2.github.io/Registration-form/)
